@@ -1,3 +1,3 @@
-module github.com/taigrr/systemctl
+module github.com/fidiego/systemctl
 
-go 1.18
+go 1.24
